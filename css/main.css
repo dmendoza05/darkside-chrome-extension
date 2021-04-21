@@ -1,0 +1,15 @@
+body {
+  filter: invert(88%);
+  background-color: #1f1f1f !important;
+}
+
+#page img,
+.img-wrapper,
+span[role="img"] {
+  filter: invert(88%);
+}
+
+/* All images */
+img {
+  filter: invert(88%);
+}

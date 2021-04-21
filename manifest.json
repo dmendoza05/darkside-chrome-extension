@@ -1,0 +1,7 @@
+{
+  "manifest_version": 3,
+  "name": "Darkside",
+  "version": "0.1",
+  "description": "Welcome to the darkside",
+  "permissions": ["activeTab", "contextMenus"]
+}

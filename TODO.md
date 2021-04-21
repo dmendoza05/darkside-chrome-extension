@@ -2,6 +2,6 @@
 
 ## 4/20/2021
 
-- [X] Setup Repo
-- [ ] Add Some README description
-- [ ] Add Initial Files
+- [X] Setup repository
+- [X] Add some README description
+- [X] Add initial files
