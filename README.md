@@ -14,3 +14,10 @@ This Chrome extension aims to:
 - Add a darkmode filter on most websites.
 
 Got the idea from https://github.com/radibit/jira-dark-theme
+
+---
+
+## Dev Documents
+
+- **Google Chrome Extension Samples Repo** : https://github.com/GoogleChrome/chrome-extensions-samples
+- **Google Chrome Extension API Docs** : https://developer.chrome.com/docs/extensions/reference/

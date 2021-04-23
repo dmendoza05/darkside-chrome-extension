@@ -3,5 +3,8 @@
   "name": "Darkside",
   "version": "0.1",
   "description": "Welcome to the darkside",
-  "permissions": ["activeTab", "contextMenus"]
+  "action": {
+    "default_title": "Default Title",
+    "default_popup": "popup/popup.html"
+  }
 }
