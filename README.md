@@ -17,7 +17,11 @@ Got the idea from https://github.com/radibit/jira-dark-theme
 
 ---
 
+- Using `chrome.runtime.sendMessage` and `chrome.scripting` for the event messaging and css injection.
+
 ## Dev Documents
 
 - **Google Chrome Extension Samples Repo** : https://github.com/GoogleChrome/chrome-extensions-samples
 - **Google Chrome Extension API Docs** : https://developer.chrome.com/docs/extensions/reference/
+- **Scripting Doc**: https://developer.chrome.com/docs/extensions/reference/scripting/
+- **Message passing Doc**: https://developer.chrome.com/docs/extensions/mv3/messaging/

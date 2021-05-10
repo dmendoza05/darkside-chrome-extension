@@ -6,5 +6,12 @@
   "action": {
     "default_title": "Default Title",
     "default_popup": "popup/popup.html"
+  },
+  "permissions": [
+    "scripting",
+    "activeTab"
+  ],
+  "background": {
+    "service_worker": "background.js"
   }
 }
